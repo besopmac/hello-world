@@ -1,0 +1,21 @@
+body {
+  color: #333;
+  font-family: sans-serif;
+  background: rgba(0,0,0,.1);
+}
+main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section {
+  width: 80vw;
+  padding: 2.5%;
+  background: #fff;
+  border-radius: 2px;
+}
+.title {
+  color: #7bce7b;
+  margin-bottom: 1rem;
+}
